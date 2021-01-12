@@ -1,4 +1,4 @@
-# hero-listt
+# hero-list
 
 ## Project setup
 ```
